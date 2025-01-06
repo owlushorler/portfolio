@@ -14,10 +14,10 @@ const AboutMe = () => {
             className="w-full h-full object-cover opacity-30"  
           />  
         </div>  
-        <div className="relative z-10 text-white text-center p-8"> 
+        <div className="relative z-10 my-10 text-white text-center p-8"> 
         <div className="flex items-center justify-center h-60  text-white">  
         <div className="max-w-4xl text-center p-6">  
-          <h1 className="text-3xl font-bold mb-4">Ajewole Olushola</h1>  
+          <h1 className="text-4xl font-bold">Ajewole Olushola</h1>  
           <h2 className="text-2xl mb-4">FULL-STACK WEB DEVELOPER</h2>  
           <p className="mb-6">  
             I’m a full-stack web developer .  
