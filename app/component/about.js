@@ -50,8 +50,8 @@ const AboutMe = () => {
           </div> 
         </div>  
       </div>  
-      <div className=" m-9">
-          <h1 className="text-6xl font-bold mb-4">About me <span className="text-pink-500">↓</span></h1>  
+      <div className=" py-10">
+          <h1 className= " py-10 text-4xl font-bold mb-4">About me <span className="text-pink-500">↓</span></h1>  
           <p className="mb-8 text-lg">  
           a passionate full-stack web developer skilled in both front-end and back-end technologies. My journey began with HTML and CSS, evolving into proficiency in JavaScript, React, Node.js, and databases like MongoDB and MySQL.
           </p>  
